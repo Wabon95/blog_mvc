@@ -12,6 +12,7 @@
         
     <body>
         <div class="container">
+        <p>Le code source de ce projet est disponnible sur <a href="https://github.com/Wabon95/blog_mvc/tree/master" target="_blank">mon Github</a></p>
             <?= $content ?>
         </div>
     </body>
