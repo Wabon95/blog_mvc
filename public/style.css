@@ -1,0 +1,12 @@
+.card {
+    margin-bottom: 20px;
+}
+.card .card-footer {
+    padding: 5px 20px;
+}
+.card .card-footer p {
+    margin-bottom: 5px;
+}
+.card .btn {
+    margin-left: 5px;
+}
